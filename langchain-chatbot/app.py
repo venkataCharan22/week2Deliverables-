@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon="🤖",
     layout="centered"
 )
-
+#Charan
 # Initialize session state for chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
