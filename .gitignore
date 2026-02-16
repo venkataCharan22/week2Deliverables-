@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB data
+chroma_db/
+
+# Environment variables
+.env
+
+# Claude
+.claude/
