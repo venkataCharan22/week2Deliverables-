@@ -12,7 +12,7 @@ from rag_chain import RAGChain
 import os
 import time
 import requests
-
+#charan
 # Page configuration
 st.set_page_config(
     page_title="RAG Chatbot with Vector DB",
